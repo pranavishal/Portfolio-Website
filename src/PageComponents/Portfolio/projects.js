@@ -1,6 +1,7 @@
 import MotorMayhem from "./MotorMayhem_Portfolio.PNG";
 import RockStars from "./RockStars_Portfolio_Photo.PNG";
 import PersonalSite from "./PersonalSite_Portfolio.PNG";
+import OpenGL from "./openGl.PNG";
 
 export const projects = [
   {
@@ -16,6 +17,12 @@ export const projects = [
       "Second mobile game I developed with Unity and C#. Released on both Google PlayStore and Apple AppStore.",
     image: MotorMayhem,
     url: "https://www.youtube.com/watch?v=2C005k-kujs&ab_channel=PanamaInk",
+  },
+  {
+    title: "OpenGL 3D Camera",
+    description: "A camera to traverse a scene using C++ and OpenGL",
+    image: OpenGL,
+    url: "https://youtu.be/QFYwbL9k1wo",
   },
   {
     title: "Personal Portfolio Website",
