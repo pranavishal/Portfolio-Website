@@ -6,6 +6,7 @@ let msgArray = [
   //" ",
   "Student",
   "Web Developer",
+  "Software Developer",
   "Gameplay Programmer",
   "Mobile Developer",
   "Graphics Programmer",
