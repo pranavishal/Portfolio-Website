@@ -57,7 +57,7 @@ html {
     var(--dark-shades),
     var(--dark-accent)
   );
-  background-size: 400%;
+  background-size: 400% 400%;
   animation: gradient 4s ease infinite;
 }
 

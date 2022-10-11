@@ -14,13 +14,14 @@ export const projects = [
   {
     title: "Motor Mayhem",
     description:
-      "Second mobile game I developed with Unity and C#. Released on both Google PlayStore and Apple AppStore.",
+      "Second mobile game I developed with Unity and C#. Motor Mayhem ranked as a top 100 iOS racing game as of September 2022. I was able to improve the user experience by collecting feedback from a sample of test users in an agile manner, and utilized Plastic SCM to implement version control.",
     image: MotorMayhem,
     url: "https://www.youtube.com/watch?v=2C005k-kujs&ab_channel=PanamaInk",
   },
   {
     title: "OpenGL 3D Camera",
-    description: "A camera to traverse a scene using C++ and OpenGL",
+    description:
+      "A camera to traverse a scene using C++ and OpenGL. I developed vertex, fragment, and geometric shaders to create shapes, and OOP principles to render multiple shapes to the scene, and handles uder input using GLFW.",
     image: OpenGL,
     url: "https://youtu.be/QFYwbL9k1wo",
   },

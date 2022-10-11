@@ -36,7 +36,7 @@ function Portfolio() {
           Github
         </a>
       </p>
-      <div classname="portfolio-grid">
+      <div className="portfolio-grid">
         {currentProject && (
           <Modal
             onClick={clearCurrent}

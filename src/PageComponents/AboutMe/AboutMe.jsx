@@ -9,7 +9,7 @@ function AboutMe() {
       <div>
         <h1>About Me</h1>
         <p>
-          Hi! I'm a burgeoning programmer, studying computer science at the
+          Hi! I'm a prolific programmer, studying computer science at the
           University of Waterloo. I have a passion for game and web development,
           so much so that I've co-founded a game studio called Panama Ink to
           develop several Android and IOS games. I'm always looking for
