@@ -32,7 +32,7 @@ export const projects = [
     description:
       "Unity 3D Platformer made for the University of Waterloo GI Game Jam in which I placed second. Implemented enemy AI, basic melee combat, checkpoints, and a level select system.",
     image: Platformer,
-    url: "https://www.youtube.com/watch?v=2zQslzGy0Os&t=87s",
+    url: "https://youtu.be/2zQslzGy0Os",
   },
   {
     title: "OpenGL 3D Camera",
