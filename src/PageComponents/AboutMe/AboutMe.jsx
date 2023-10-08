@@ -10,9 +10,7 @@ function AboutMe() {
         <h1>About Me</h1>
         <p>
           Hi! I'm a prolific programmer, studying computer science at the
-          University of Waterloo. I have a passion for game and web development,
-          so much so that I've co-founded a game studio called Panama Ink to
-          develop several Android and IOS games. I'm always looking for
+          University of Waterloo. I'm always looking for
           opportunities to increase my skills in new and challenging
           environments. Below you'll find details into my projects, skills, as
           well as my contact information. I'm always happy to chat, so feel free
